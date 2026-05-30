@@ -1,0 +1,8 @@
+{
+  "name": "Tehreem's Birthday Surprise",
+  "description": "An ultra-premium, elegant, and interactive birthday surprise dedicated to Tehreem, crafted with smooth glassmorphic details, interactive friendship notes, music, and floating particles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
